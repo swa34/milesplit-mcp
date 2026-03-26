@@ -131,7 +131,7 @@ export function Component() {
               HTTP endpoint with Server-Sent Events for streaming responses. Deploy once, connect from anywhere.
             </p>
             <CodeBlock label="Local">{`http://localhost:3001/mcp`}</CodeBlock>
-            <CodeBlock label="Deployed" className="mt-3">{`https://milesplit-mcp.up.railway.app/mcp`}</CodeBlock>
+            <CodeBlock label="Deployed" className="mt-3">{`https://milesplit-mcp-production.up.railway.app/mcp`}</CodeBlock>
           </div>
         </div>
       </Section>

@@ -7,7 +7,7 @@ export const SITE = {
     "Search athletes, rankings, meet results, and team rosters from MileSplit — accessible from any MCP-compatible AI assistant. Built with dual stdio/HTTP transport.",
   author: "Scott Allen",
   repo: "https://github.com/swa34/milesplit-mcp",
-  mcpUrl: "https://milesplit-mcp.up.railway.app/mcp",
+  mcpUrl: "https://milesplit-mcp-production.up.railway.app/mcp",
   mcpUrlLocal: "http://localhost:3001/mcp",
   docsSetupUrl: "/docs#setup",
 } as const;
